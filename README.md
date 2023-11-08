@@ -6,11 +6,11 @@ This is repository functions as a registry of tools for working with EntryScape.
 
 ### FME Script Examples
 
-[Repository](https://gitlab.com/entryscape/fme-script-examples) containing examples of FME scripts for working with the EntryScape API
+[Repository](https://gitlab.com/entryscape/fme-script-examples) containing examples of FME scripts for working with the EntryScape API.
 
 ### Taskrunner API
 
-[API](https://swagger.entryscape.com/?url=https://docs.entryscape.com/en/taskrunner/swagger.json#/info) designed for automation of various tasks. Also see [documentation](https://docs.entryscape.com/en/taskrunner/)
+[API](https://swagger.entryscape.com/?url=https://docs.entryscape.com/en/taskrunner/swagger.json#/info) designed for automation of various tasks. Also see [documentation](https://docs.entryscape.com/en/taskrunner/).
 
 ## Community
 
@@ -19,4 +19,4 @@ This is repository functions as a registry of tools for working with EntryScape.
 
 ### EntryStore API
 
-[API](https://entrystore.org/api/) designed for communication with the backend of EntryScape. Also see [documentation](https://entrystore.org/)
+[API](https://entrystore.org/api/) designed for communication with the backend of EntryScape. Also see [documentation](https://entrystore.org/).
