@@ -14,7 +14,6 @@ This is repository functions as a registry of tools for working with EntryScape.
 
 ## Community
 
-
 ## Other useful links
 
 ### EntryStore API
