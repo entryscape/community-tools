@@ -4,15 +4,19 @@ This is repository functions as a registry of tools for working with EntryScape.
 
 ## MetaSolutions
 
-### FME Script Examples
-
-[Repository](https://gitlab.com/entryscape/fme-script-examples) containing examples of FME scripts for working with the EntryScape API.
-
 ### Taskrunner API
 
 [API](https://swagger.entryscape.com/?url=https://docs.entryscape.com/en/taskrunner/swagger.json#/info) designed for automation of various tasks. See also the [documentation](https://docs.entryscape.com/en/taskrunner/).
 
 ## Community
+
+### EntryScape-tools
+
+[EntryScape-tools](https://github.com/crilleaz/EntryScape-tools) is a compilation of scripts made by [Crille](https://github.com/crilleaz/). It can be used to interact with an instance of EntryScape for updating datasets and distribution files using the Taskrunner API.
+
+### FME Script Examples
+
+A [repository](https://gitlab.com/entryscape/fme-script-examples) containing examples of FME scripts for working with the EntryScape API.
 
 ## Other useful links
 
