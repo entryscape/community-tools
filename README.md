@@ -16,10 +16,6 @@ This repository contains utility methods for manipulating distributions in an da
 
 In this repository we give 9 basic examples of how to interact with the EntryStore REST API. The examples are implemented in several different programming languages. Link to code and documentation on [Bitbucket.com](https://bitbucket.org/metasolutions/entrystore-examples/src/master/).
 
-### EntryStore API
-
-EntryStore is the reference implementation of the Resource and Metadata Management Model (ReM3). Documentation can be found at [EntryStore.org](https://entrystore.org/) and at its [Swagger UI](https://entrystore.org/api/).
-
 ## Community
 
 ### EntryScape-tools
@@ -34,4 +30,4 @@ A [repository](https://gitlab.com/entryscape/fme-script-examples) containing exa
 
 ### EntryStore API
 
-[API](https://entrystore.org/api/) designed for communication with the backend of EntryScape. See also the [documentation](https://entrystore.org/).
+EntryStore is the reference implementation of the Resource and Metadata Management Model (ReM3). An [API](https://entrystore.org/api/) designed for communication with the backend of EntryScape. See also the [documentation](https://entrystore.org/).
