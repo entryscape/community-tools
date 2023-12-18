@@ -18,7 +18,7 @@ In this repository we give 9 basic examples of how to interact with the EntrySto
 
 ### EntryStore API
 
-EntryStore is the reference implementation of the Resource and Metadata Management Model (ReM3). Documentation can be found here [EntryStore.org](https://entrystore.org/) and [Swagger UI](https://entrystore.org/api/).
+EntryStore is the reference implementation of the Resource and Metadata Management Model (ReM3). Documentation can be found at [EntryStore.org](https://entrystore.org/) and at its [Swagger UI](https://entrystore.org/api/).
 
 ## Community
 
