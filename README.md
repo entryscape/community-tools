@@ -26,6 +26,10 @@ In this repository we give 9 basic examples of how to interact with the EntrySto
 
 A [repository](https://gitlab.com/entryscape/fme-script-examples) containing examples of FME scripts for working with the EntryScape API.
 
+### FME Workspace - Replace/update files in your EntryScape catalog
+
+This [FME-Workspace](https://github.com/statistikZG/opendatazug/tree/Entryscape) helps you replace/update files on your Entryscape cataloge. It is as parameterized as far as possible, so you only need to specify the neccessary input variables.
+
 ## Other useful links
 
 ### EntryStore API
